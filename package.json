@@ -1,0 +1,8 @@
+{
+  "name": "demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.9",
+    "koa": "^2.4.1"
+  }
+}
